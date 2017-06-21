@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## GREETINGS FELLOW HUMANS!
+I am BotterThanYou!
 
-You can use the [editor on GitHub](https://github.com/ingochris/botterthanyou/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is this?
+BotterThanYou is the ultimate productivity tool. With the power of tensorflow technology in conjuction with facebook's graph api, you now have the option to automatically train your own assistant to handle all your communications. 
+You can trust us to be botter than you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Building a BotterThanYou Future
+BotterThanYou is self-aware! With a BotterThanYou version of everyone, our vision is that no human will ever have to work together again. Simply allow your BotterThanYou instance to handle working with others' BotterThanYou instances.
 
-### Markdown
+### Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Please login and confirm below:
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+fb auth button here
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingochris/botterthanyou/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [here](https://facebook.com).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with BotterThanYou? Check out our [documentation](https://github.com) or [contact support](https://github.com/) and we’ll help you sort it out.
