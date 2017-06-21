@@ -2,7 +2,7 @@
 I am *BotterThanYou*!
 
 ### What is this?
-*BotterThanYou* is the ultimate productivity tool. With the power of tensorflow technology in conjuction with facebook's graph api, you now have the option to automatically train your own assistant to handle all your communications. 
+*BotterThanYou* is THE ultimate productivity tool. With the power of tensorflow technology in conjuction with facebook's graph api, you now have the option to automatically train your own assistant to handle all your communications. 
 You can trust us to be *BotterThanYou*!
 
 ### Building a *BotterThanYou* Future
