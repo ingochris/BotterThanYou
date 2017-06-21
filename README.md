@@ -21,4 +21,4 @@ For more details see [here](https://reddit.com/r/totallynotrobots).
 
 ### Support or Contact
 
-Having trouble with *BotterThanYou*? Check out our [documentation](https://github.com/ingochris/BotterThanYou) or [contact support](https://facebook.com/BotterThanYou) and we’ll help you sort it out.
+Having trouble with *BotterThanYou*? Check out our [documentation](https://github.com/ingochris/BotterThanYou) or [contact support](https://google.com) and we’ll help you sort it out.
