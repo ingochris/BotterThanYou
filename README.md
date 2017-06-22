@@ -52,4 +52,4 @@ For more details see [here](https://reddit.com/r/totallynotrobots).
 
 Having trouble with *BotterThanYou*? Check out our [documentation](https://github.com/ingochris/BotterThanYou) or [contact support](https://google.com) and we’ll help you sort it out.
 
- <center><img src="https://raw.githubusercontent.com/ingochris/BotterThanYou/master/assets/img/logo.png"></center>
+ <center><img src="https://raw.githubusercontent.com/ingochris/BotterThanYou/master/assets/img/meme.png"></center>
