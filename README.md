@@ -13,7 +13,7 @@ Trust us to be *BotterThanYou*!
 
 ### Getting Started
 
-To become *BotterThanYou*, [login and confirm](http://botterthanyou.herokuapp.com).
+To become *BotterThanYou*, please [login and confirm](http://botterthanyou.herokuapp.com).
 
 ```js
 
