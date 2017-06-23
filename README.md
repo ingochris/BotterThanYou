@@ -13,10 +13,10 @@ Trust us to be *BotterThanYou*!
 
 ### Getting Started
 
-Please login and confirm below:
+To become *BotterThanYou*, [login and confirm](http://botterthanyou.herokuapp.com).
+
 ```js
 
-fb auth button here
 <script>
 var finished_rendering = function() {
 console.log("finished rendering plugins");
